@@ -3,4 +3,4 @@ version: '${project.version}'
 main: flens.bingo.Bingo
 api-version: 1.20
 commands:
-  bingo:
+  start:
